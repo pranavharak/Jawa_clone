@@ -2,7 +2,7 @@ import Footer from "./components/Footer";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Home from "./components/Home";
-import Jawa from "./components/jawa";
+import Jawa from "./components/Jawa";
 import Navbar from "./components/navbar";
 import Yezdi from "./components/Yezdi";
 
